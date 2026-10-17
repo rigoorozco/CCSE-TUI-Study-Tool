@@ -1,0 +1,302 @@
+CCSE 2026 - Respuestas
+
+1001: a. una monarquía parlamentaria.
+1002: a. Constitución.
+1003: a. el pueblo español.
+1004: b. un organismo español.
+1005: a. En cualquier horario.
+1006: a. en toda España.
+1007: c. Policía Foral de Navarra.
+1008: b. El Cuerpo Nacional de Policía.
+1009: a. judicial.
+1010: b. en todos los edificios públicos.
+1011: b. El rey.
+1012: b. las comunidades autónomas.
+1013: b. Adolfo Suárez.
+1014: b. El Tribunal Constitucional.
+1015: b. El rey.
+1016: a. Senado.
+1017: b. Una firma electrónica.
+1018: b. Por referéndum.
+1019: a. Estatuto de Autonomía.
+1020: a. Ayuntamiento.
+1021: b. El Gobierno.
+1022: b. Consejos insulares.
+1023: b. Barcelona.
+1024: a. al pueblo español.
+1025: b. legislativo.
+1026: a. Reuniendo 500 000 firmas.
+1027: b. 17.
+1028: b. rojo y amarillo.
+1029: a. En Madrid.
+1030: a. la Unión Europea.
+1031: a. alcaldes y concejales
+1032: c. El euskera.
+1033: b. oficial del Estado.
+1034: a. Cataluña.
+1035: b. la asamblea legislativa.
+1036: a. El gallego.
+1037: c. El Instituto Cervantes.
+1038: c. La Real Academia Española.
+1039: c. En el Palacio de la Moncloa.
+1040: c. El Ejército del Aire.
+1041: a. Los ministros.
+1042: a. estado social y democrático de Derecho.
+1043: a. PP.
+1044: a. Princesa de Asturias.
+1045: c. Con Juan Carlos I.
+1046: b. En 1978.
+1047: b. Todas.
+1048: c. El Defensor del Pueblo.
+1049: c. 500 000.
+1050: b. Fondo Monetario Internacional (FMI).
+1051: c. local.
+1052: c. a los diputados y senadores.
+1053: b. En el Palacio de la Zarzuela.
+1054: a. Cortes Generales.
+1055: b. dependen de ministerios.
+1056: c. Tanto los hombres como las mujeres.
+1057: b. las Cortes Generales.
+1058: c. El presidente del Congreso de los Diputados.
+1059: b. Catalán.
+1060: a. la justicia.
+1061: b. Normas que la desarrollen.
+1062: b. 49 millones.
+1063: b. El Consejo de Estado.
+1064: b. El Gobierno.
+1065: c. las Cortes Generales.
+1066: a. euskera y la cultura vasca.
+1067: b. Málaga.
+1068: b. Cualquier ciudadano.
+1069: b. Felipe VI.
+1070: b. Consejo General del Poder Judicial.
+1071: a. Las Cortes Generales.
+1072: a. la ley fundamental.
+1073: a. el Congreso de los Diputados.
+1074: b. El poder legislativo.
+1075: b. las Fuerzas Armadas.
+1076: c. Organización de las Naciones Unidas (ONU).
+1077: a. La Guardia Civil.
+1078: c. La Policía Nacional.
+1079: b. José María Aznar.
+1080: c. Mossos d'Esquadra.
+1081: a. Ertzaintza.
+1082: b. Desde 2014.
+1083: c. La Policía Local.
+1084: c. Todos los ciudadanos, españoles o extranjeros.
+1085: a. un derecho.
+1086: a. La Guardia Civil.
+1087: b. La Agencia Tributaria.
+1088: c. En el Boletín Oficial del Estado (BOE).
+1089: a. Cabildos.
+1090: c. Pagar los impuestos.
+1091: b. 060.
+1092: b. comunidades autónomas.
+1093: c. Muchos.
+1094: b. En el Congreso de los Diputados.
+1095: a. El rey.
+1096: b. El delegado del Gobierno.
+1097: b. 50.
+1098: b. de la comunidad autónoma.
+1099: a. al Gobierno del Estado.
+1100: b. Dos.
+1101: a. el ayuntamiento.
+1102: a. el Estado.
+1103: a. Ninguna.
+1104: a. el Estado.
+1105: a. los concejales.
+1106: c. El presidente y los consejeros.
+1107: a. El ayuntamiento.
+1108: c. Diputaciones.
+1109: a. El Gobierno.
+1110: b. castellano.
+1111: c. A los eurodiputados.
+1112: b. 18 años.
+1113: a. municipales.
+1114: c. El Tribunal de Cuentas.
+1115: a. A los senadores y diputados.
+1116: b. 350.
+1117: b. local.
+1118: a. Andalucía.
+1119: c. Sindicato.
+1120: a. El Congreso de los Diputados.
+2001: b. Falso.
+2002: b. Falso.
+2003: a. Verdadero.
+2004: a. Verdadero.
+2005: b. Falso.
+2006: b. Falso.
+2007: a. Verdadero.
+2008: a. Verdadero.
+2009: b. Falso.
+2010: a. Verdadero.
+2011: a. Verdadero.
+2012: a. Verdadero.
+2013: b. Falso.
+2014: a. Verdadero.
+2015: a. Verdadero.
+2016: a. Verdadero.
+2017: a. Verdadero.
+2018: b. Falso.
+2019: a. Verdadero
+2020: a. Verdadero
+2021: b. Falso.
+2022: a. Verdadero.
+2023: b. Falso.
+2024: a. Verdadero.
+2025: a. Verdadero.
+2026: a. Verdadero.
+2027: b. Falso.
+2028: b. Falso.
+2029: a. Verdadero.
+2030: a. Verdadero.
+2031: a. Verdadero.
+2032: a. Verdadero.
+2033: a. Verdadero.
+2034: b. Falso.
+2035: a. Verdadero.
+2036: a. Verdadero.
+3001: c. En Extremadura.
+3002: c. Valencia.
+3003: b. En el mar Mediterráneo.
+3004: c. Meseta.
+3005: a. Aragón.
+3006: b. En Castilla-La Mancha.
+3007: a. Galicia.
+3008: a. En Andalucía.
+3009: c. Santiago de Compostela.
+3010: b. El Júcar.
+3011: a. En los Pirineos.
+3012: b. País Vasco.
+3013: b. comunidades y ciudades autónomas.
+3014: a. Cataluña.
+3015: b. Melilla.
+3016: c. Madrid.
+3017: a. El Guadalquivir.
+3018: a. Burgos.
+3019: b. Aragón.
+3020: c. subtropical.
+3021: a. Ebro.
+3022: b. montañosos.
+3023: a. En Cáceres.
+3024: c. Mérida.
+4001: b. Sancho Panza.
+4002: c. Margarita Salas.
+4003: a. Federico García Lorca.
+4004: a. Carmen Laforet.
+4005: a. Manuel de Falla.
+4006: b. Encender hogueras.
+4007: b. La guitarra.
+4008: c. directora de cine.
+4009: a. Rosalía.
+4010: c. Córdoba.
+4011: c. En Granada.
+4012: a. Pilar Miró.
+4013: a. El infinito en un junco.
+4014: b. Consejo Superior de investigaciones Científicas (CSIC).
+4015: b. guitarrista.
+4016: b. Nochebuena.
+4017: c. cocinero.
+4018: a. Una defensora de los derechos de la mujer.
+4019: b. Villancicos.
+4020: c. fútbol.
+4021: c. Vicente Aleixandre.
+4022: a. Los sanfermines.
+4023: a. campeones paraolímpicos.
+4024: b. Uvas.
+4025: a. Maruja Mallo.
+4026: b. Museo Reina Sofía.
+4027: a. Mercè Rodoreda.
+4028: a. La cristiana, la judía y la musulmana.
+4029: a. el Día de la Constitución.
+4030: c. Córdoba.
+4031: a. Bilbao.
+4032: b. escritores.
+4033: a. Premio Goya.
+4034: b. Los Premios Princesa de Asturias.
+4035: a. El fútbol.
+4036: c. Carlos Alcaraz.
+5001: b. La Tarjeta de Identidad de Extranjero (TIE).
+5002: a. El certificado de empadronamiento.
+5003: c. Al libro de familia.
+5004: b. 18 años.
+5005: a. la Dirección General de Tráfico (DGT).
+5006: c. un examen teórico y otro práctico.
+5007: a. En el Registro Civil.
+5008: c. Canal Sur.
+5009: b. 19 semanas.
+5010: a. 0,5.
+5011: b. Piso en un edificio de viviendas.
+5012: b. Andalucía.
+5013: b. ITV (Inspección Técnica de Vehículos).
+5014: b. tapa.
+5015: b. En el centro de salud.
+5016: c. Con 3 hijos.
+5017: b. entre personas del mismo y diferente sexo.
+5018: c. el Ayuntamiento.
+5019: b. patatas.
+5020: a. Gazpacho.
+5021: b. La 1.
+5022: b. no molestar con ruido.
+5023: a. Arroz.
+5024: a. Asturias.
+5025: c. puede ser el de la madre o el del padre.
+5026: c. 12 de octubre.
+5027: b. Los domingos.
+5028: b. En una comisaría de policía.
+5029: b. discriminación.
+5030: b. Cataluña.
+5031: b. La tarjeta sanitaria.
+5032: b. una hora menos.
+5033: c. Prueba de Acceso a la Universidad.
+5034: a. Petróleo.
+5035: c. Impuestos directos e indirectos.
+5036: c. 25 años.
+5037: a. En zonas de recreo.
+5038: b. se compone de dos cursos académicos.
+5039: a. Impuestos indirectos.
+5040: a. El de la Seguridad Social.
+5041: c. son gratuitos.
+5042: c. Algeciras.
+5043: a. recibe dinero de la Administración.
+5044: b. de la Unión Europea.
+5045: a. todos.
+5046: c. Calzado.
+5047: a. un Centro de Educación de Personas Adultas.
+5048: b. puede ser de grado medio o superior.
+5049: b. Al centro de salud.
+5050: b. Para dos años.
+5051: c. A las 21 o 22 h.
+5052: b. 112.
+5053: b. El País.
+5054: c. En el estanco.
+5055: a. Las 24 horas del día.
+5056: a. la ONCE.
+5057: a. Patrimonio de la Humanidad.
+5058: c. Canal 24 horas.
+5059: c. 016.
+5060: a. de cercanías.
+5061: a. Fumar un cigarrillo.
+5062: b. Técnico.
+5063: c. Doctor.
+5064: c. En la farmacia.
+5065: a. No pisar el césped.
+5066: b. El seguro.
+5067: b. Madrid
+5068: c. en todos los asientos.
+5069: b. 120 km/h.
+5070: a. el transporte público.
+5071: b. El taxi.
+5072: b. Ponerle un microchip y vacunarlo
+5073: b. China.
+5074: a. 16 años.
+5075: b. Servicios.
+5076: b. las energías renovables.
+5077: b. El Estatuto de los Trabajadores.
+5078: a. Farmacia.
+5079: b. tiene dos ciclos.
+5080: b. En septiembre.
+5081: b. son para mayores de 16 años.
+5082: a. Informe de vida laboral.
+5083: a. las condiciones laborales.
+5084: a. En el turismo.
