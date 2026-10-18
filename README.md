@@ -6,6 +6,10 @@ The **CCSE (Conocimientos Constitucionales y Socioculturales de España)** test 
 
 This project provides a Terminal User Interface (TUI) study tool for the CCSE 2026 exam cycle, covering historical content through the elections of June 2023. It includes a question bank based on the official 2026 material and an interactive quiz interface for self-testing.
 
+### Demo
+
+![CCSE TUI Study Tool Demo](demo.gif)
+
 ## Prerequisites
 
 The script is written in Python 3 and depends only on the standard library, so no extra packages are required.
