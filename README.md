@@ -56,6 +56,8 @@ This tool is designed to work with historical CCSE content. When preparing mater
 
 If you find a mistake in the data or want to extend the tool, open a pull request. For major changes, please discuss first.
 
+**Note**: The question set and responses were extracted from the "Manual de preparacion de la prueba CCSE" using AI assistance. For future years these could be extracted and placed in the same format.
+
 ## Benefits of Spaced Repetition
 
 Spaced repetition is a learning technique based on the psychological spacing effect. It involves studying information at increasing intervals, which optimizes memory retention and improves long-term recall.
